@@ -14,8 +14,8 @@ StickarApp está disponible para su descarga en las siguientes tiendas de aplica
 
 Próximamente en:
 
-- [App Store] # (https://apps.apple.com/app/)
-- [Google Play] # (https://play.google.com/store/apps/details?id=com.xxx.stickarapp) 
+- [App Store] 
+- [Google Play] 
 
 ## Licencia
 
