@@ -12,8 +12,10 @@ StickarApp es una aplicación móvil que te permite personalizar tus conversacio
 
 StickarApp está disponible para su descarga en las siguientes tiendas de aplicaciones:
 
-- [App Store](https://apps.apple.com/app/)
-- [Google Play](https://play.google.com/store/apps/details?id=com.xxx.stickarapp) 
+Próximamente en:
+
+- [App Store] # (https://apps.apple.com/app/)
+- [Google Play] # (https://play.google.com/store/apps/details?id=com.xxx.stickarapp) 
 
 ## Licencia
 
